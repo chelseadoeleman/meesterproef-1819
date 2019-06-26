@@ -30,7 +30,7 @@ The following day we each iterated on our previous ideas and started on some des
 This because at Wallscope they use Vue as a framework, which I thought was really cool. I had also never worked with this framework before, same goes for PUG for HTML. However I wasn't really sold on that idea, but did learn a lot about Vue. Which was a good thing, because at first we only considered React as a framework. One thing we did had in common was using Typescript. At the end of the day we (Specifically Maikel Sleebos) presented what we've been up to these two days and our future ideas for development. Which they were really excited about. In the evening we got to meet Ian, the CEO of Wallscope.
 
 <details>
-    <summary>My first design</summary>
+    <summary>Designs Version 1</summary>
 
 ![Article](./assets/v1_chelsea/article.png)
 ![Home-light](./assets/v1_chelsea/home-light.png)
@@ -48,7 +48,7 @@ This because at Wallscope they use Vue as a framework, which I thought was reall
 On monday we had a feedback session with Joost, talking him through our ideas and of course our experience in Scotland. In the morning we already sat together and everyone agreed that something was missing in our concept. It felt too big and there wasn't much user interaction, this also came to light during our conversation with Joost. Jesper had made some cool iterations, during our stay in Edinburgh. One of them being able to create topics to save your search results. The following day we pitched this by Wallscope through Skype and they also thought this was a great idea.
 
 <details>
-    <summary>Design Version 2</summary>
+    <summary>Designs Version 2</summary>
 
 ![Home](./assets/v2_chelsea/home.png)
 ![Home light](./assets/v2_chelsea/home-light.png)
@@ -65,7 +65,7 @@ On monday we had a feedback session with Joost, talking him through our ideas an
 The rest of the week we mainly iterated on our concept, trying to create meaningful user interaction. Such as linking data to create your own research. After that we worked on our designs, implementing our new concept into them and trying to figure out what works the best. In the end we choose my designs, while configuring ideas of others into it. Which felt like a good approach at the time, because everyone had a say in how things should look and how it would work. But because of this we hadn't started coding yet. 
 
 <details>
-    <summary>Design Version 3</summary>
+    <summary>Designs Version 3</summary>
 
 ![Home](./assets/v3_chelsea/home.png)
 ![Home light](./assets/v3_chelsea/home-light.png)
