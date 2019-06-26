@@ -2,6 +2,13 @@
 
 **This my Product Biography that contains my work process, during the meesterproef @minor Web Development.**
 
+## Table of Contents
+* [Week 1](#Week-1)
+* [Week 2](#Week-2)
+* [Week 3](#Week-3)
+* [Week 4](#Week-4)
+* [Week 5](#Week-5)
+
 ## Week 1
 
 On monday we had our first debriefing and met Antero from Wallscope. The UX designers from the minor UX Design were also present during this debriefing. However they had theirs from Wallscope a week earlier, then we did. During the presentation I learned a lot about Wallscope, Linked-data, Triple stores (RDF) and of course the people in Scotland, especially their humor! 
