@@ -96,6 +96,8 @@ On Wednesday I sat down with Koop for my code-review. Talking about the rubrics 
 
 ![RAIN](./assets/rain.jpg)
 
+![Start coding](./assets/design/start.png)
+
 Sadly we hadn’t received any data yet from Wallscope, because Antero hadn’t had time to finish the query before he went on vacation. Because we contacted Antero privately through Slack we didn’t receive an answer. After contacting Wallscope we immediately received an answer and some data sets in JSON. But after looking through them there was a lot confusion... Which lead to a point where we had to decide to use mock data or try to use theirs seeing as the deadline was fast approaching.
 
 On Friday both Maikel Sleebos and Jesper were at CSS day, which left Maikel van Veen and me to handle the Skype calls. At around 11 ‘O clock we had a Skype call with Joost were we ended up with the same conclusion creating mock data before and showing the whole idea and concept in the prototype before 2’ O clock. This was not a lot of time to create some boards and setting up mock data to use throughout our application.
@@ -106,7 +108,13 @@ The rest of the afternoon Maikel van Veen and I switched laptops, because on min
 
 ## Week 4
 
-On monday we went back to building components. Halfway through the day Jesper and I agreed that the color scheme looked a bit wonky so we decided to change things up. After implementing our new design into  the whole Adobe XD design file we showed it to the rest of our group. Well let's say they were not amused in the least. I quote "It looked grey and depressing", so back to changing things again. In the end I settled for a vibrant purple color, that blew some life into the design, but also kept it fairly neutral. Luckily for us Wallscope told us that we are free to come up with our own colours, since they want to propose a new color scheme to ISD as well. Working in Adobe XD and switching up the whole design took up the rest of the day.
+On monday we went back to building components. Halfway through the day Jesper and I agreed that the color scheme looked a bit wonky so we decided to change things up. After implementing our new design into  the whole Adobe XD design file we showed it to the rest of our group. 
+
+![Depressing designs](./assets/design/depressing.png)
+
+Well let's say they were not amused in the least. I quote "It looked grey and depressing", so back to changing things again. In the end I settled for a vibrant purple color, that blew some life into the design, but also kept it fairly neutral. Luckily for us Wallscope told us that we are free to come up with our own colours, since they want to propose a new color scheme to ISD as well. Working in Adobe XD and switching up the whole design took up the rest of the day.
+
+![Depressing designs](./assets/design/finished.png)
 
 On tuesday we sat down with Joost again and told him about our kind of disastrous meeting we had on friday, but still he was very enthusiastic about the whole idea and even proposed an new one. Where we would take linking to the next level, by implementing validated links into the database so we could create more linked data. Of course because this is open source you shouldn't update every link into the data, because it might be a false presumption.
 
