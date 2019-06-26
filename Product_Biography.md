@@ -23,7 +23,14 @@ The first day we spent mainly on our concept and pitching our ideas with Antero 
 ![Questions](./assets/questions.JPG)
 ![Questions](./assets/questions2.JPG)
 
-The following day we each iterated on our previous ideas and started on some designs. I really liked the way how everyone worked on different designs that turned into new insights how to tackle the problem. In the afternoon we also had a quick Vue.js tutorial! This because at Wallscope they use Vue as a framework, which I thought was really cool. I had also never worked with this framework before, same goes for PUG for HTML. However I wasn't really sold on that idea, but did learn a lot about Vue. Which was a good thing, because at first we only considered React as a framework. One thing we did had in common was using Typescript. At the end of the day we (Specifically Maikel Sleebos) presented what we've been up to these two days and our future ideas for development. Which they were really excited about. In the evening we got to meet Ian, the CEO of Wallscope.
+The following day we each iterated on our previous ideas and started on some designs. I really liked the way how everyone worked on different designs that turned into new insights how to tackle the problem. In the afternoon we also had a quick Vue.js tutorial! 
+
+![Vue js workshop](./assets/edinburgh/vue.jpg)
+
+This because at Wallscope they use Vue as a framework, which I thought was really cool. I had also never worked with this framework before, same goes for PUG for HTML. However I wasn't really sold on that idea, but did learn a lot about Vue. Which was a good thing, because at first we only considered React as a framework. One thing we did had in common was using Typescript. At the end of the day we (Specifically Maikel Sleebos) presented what we've been up to these two days and our future ideas for development. Which they were really excited about. In the evening we got to meet Ian, the CEO of Wallscope.
+
+![Presentation](./assets/edinburgh/presentation.JPG)
+![Presentation](./assets/edinburgh/presentation2.JPG)
 
 ## Week 2
 
@@ -41,7 +48,7 @@ I had only once worked with SASS before, but never with BEM. During this project
 
 This week I mainly focused on building as much components as possible. Making sure they were generic, so that you could use them again and again. I learned a lot about classnames, a package we use and how to integrate this with BEM. Which I reckon was pretty darn cool. 
 
-On Wednesday I sat down with Koop for my code-review. Talking about the rubrics I choose. He agreed I should focus on UX design and look into a long press button. After discussing this with the group we decided there wasn’t as of now a use case to use a long press button maybe as a next iteration if we have time. Together with Jesper we also iterated on the design, because some features weren’t designed how they should feel like. **Add design principle here**. This went on most of the week switching between building components and iterating on the design. However there were only made small changes. 
+On Wednesday I sat down with Koop for my code-review. Talking about the rubrics I choose. He agreed I should focus on UX design and look into a long press button. After discussing this with the group we decided there wasn’t as of now a use case to use a long press button maybe as a next iteration if we have time. Together with Jesper we also iterated on the design, because some features weren’t designed how they should feel like. **Add design principle here**. This went on most of the week switching between building components and iterating on the design. Jesper taught me to ask why I would put some certain features into the concept, making sure to only add things that would create a added value.  However there were only made small changes. We did come up with an application name this day! _**Rain**: **R**esearch, **A**pplication, **I**nsights and **N**atural language_
 
 Sadly we hadn’t received any data yet from Wallscope, because Antero hadn’t had time to finish the query before he went on vacation. Because we contacted Antero privately through Slack we didn’t receive an answer. After contacting Wallscope we immediately received an answer and some data sets in JSON. But after looking through them there was a lot confusion... Which lead to a point where we had to decide to use mock data or try to use theirs seeing as the deadline was fast approaching.
 
