@@ -46,7 +46,7 @@ I had only once worked with SASS before, but never with BEM. During this project
 
 ## Week 3
 
-This week I mainly focused on building as much components as possible. Making sure they were generic, so that you could use them again and again. I learned a lot about classnames, a package we use and how to integrate this with BEM. Which I reckon was pretty darn cool. 
+This week I mainly focused on building as much components as possible. Making sure they were generic, so that you could use them again and again. I learned a lot about classnames, a package we use and how to integrate this with BEM. Which I reckon was pretty darn cool. In the end I wrote an article about [BEM](https://github.com/chelseadoeleman/weekly-nerd-1819/blob/master/Article2/BEM.md) to fully understand this whole concept.
 
 On Wednesday I sat down with Koop for my code-review. Talking about the rubrics I choose. He agreed I should focus on UX design and look into a long press button. After discussing this with the group we decided there wasn’t as of now a use case to use a long press button maybe as a next iteration if we have time. Together with Jesper we also iterated on the design, because some features in the design didn't look like how they should behave: [**Appearance follows behavior**](http://bokardo.com/principles-of-user-interface-design/). This mainly applied to ```<Boards>``` and ```<Tags>```. This went on most of the week switching between building components and iterating on the design. Jesper taught me to ask why I would put some certain features into the concept, making sure to only add things that would create a added value.  However there were only made small changes. We did come up with an application name this day! 
 
