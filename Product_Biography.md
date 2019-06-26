@@ -50,7 +50,7 @@ This week I mainly focused on building as much components as possible. Making su
 
 On Wednesday I sat down with Koop for my code-review. Talking about the rubrics I choose. He agreed I should focus on UX design and look into a long press button. After discussing this with the group we decided there wasn’t as of now a use case to use a long press button maybe as a next iteration if we have time. Together with Jesper we also iterated on the design, because some features weren’t designed how they should feel like. **Add design principle here**. This went on most of the week switching between building components and iterating on the design. Jesper taught me to ask why I would put some certain features into the concept, making sure to only add things that would create a added value.  However there were only made small changes. We did come up with an application name this day! 
 
-> ### _**Rain**: **R**esearch, **A**pplication, **I**nsights and **N**atural language_
+> _**Rain**: **R**esearch, **A**pplication, **I**nsights and **N**atural language_
 
 ![RAIN](./assets/rain.HEIC)
 
