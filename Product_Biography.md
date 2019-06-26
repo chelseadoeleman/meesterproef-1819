@@ -31,7 +31,12 @@ This because at Wallscope they use Vue as a framework, which I thought was reall
 
 <details>
     <summary>My first design</summary>
-!
+
+![Article](./assets/v1_chelsea/article.png)
+![Home-light](./assets/v1_chelsea/home-light.png)
+![Home](./assets/v1_chelsea/home.png)
+![Results](./assets/v1_chelsea/results.png)
+![Results2](./assets/v1_chelsea/results2.png)
 
 </details>
 
