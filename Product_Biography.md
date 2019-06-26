@@ -58,9 +58,9 @@ Sadly we hadn’t received any data yet from Wallscope, because Antero hadn’t 
 
 On Friday both Maikel Sleebos and Jesper were at CSS day, which left Maikel van Veen and me to handle the Skype calls. At around 11 ‘O clock we had a Skype call with Joost were we ended up with the same conclusion creating mock data before and showing the whole idea and concept in the prototype before 2’ O clock. This was not a lot of time to create some boards and setting up mock data to use throughout our application.
 
-Well as you probably guessed we almost finished it, but six minutes before our Skype call with Wallscope everything broke. In vain Maikel tried to fix it. So we ended up showing them the same prototype as the week before and the designs with small iterations. Unfortunately we had come a long way since that week but weren’t able to show them. 
+Well as you probably guessed we had almost finished it in time, but six minutes before our Skype call with Wallscope everything broke. In vain Maikel tried to fix it. So we ended up showing them the same prototype as the week before and the designs with small iterations. Unfortunately we had come a long way since that week but weren’t able to show them. 
 
-The rest of the afternoon Maikel van Veen and I switched laptops, because on mine the mistake was made and I couldn't figure out how to fix this. So I started on building the board, boards and BoardsView component. While simultaneously learning how to implement data from the backend to the frontend, kind of. In the end the bug still remains a mystery to us and Maikel found a workaround. 
+The rest of the afternoon Maikel van Veen and I switched laptops, because on mine the mistake was made and I couldn't figure out how to fix this. So I started on building the board, boards and BoardsView component. While simultaneously learning how to implement data from the backend to the frontend, kind of. In the end the bug still remains a mystery to us, but Maikel found a workaround. 
 
 ## Week 4
 
