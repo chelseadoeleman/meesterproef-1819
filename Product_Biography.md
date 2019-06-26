@@ -42,7 +42,7 @@ On wednesday I had a code review with Joost, talking about rubrics and things I 
 
 By the end of the week we were finally able to start coding. Which personally felt quite late, because everyone else had already started on their project. The whole week long this kept nagging my brain, so being able to finally start at the end of the week was a relieve. Because everyone knows I need the time to realise such a big concept, especially since I'm not that fast in coding yet. Our codebase was set-up by Maikel van Veen, using react as a framework, node.js server, typescript and SASS using BEM. 
 
-I had only once worked with SASS before, but never with BEM. During this project I want to focus on the frontend, because I really feel I have some affinity there and want to focus on creating a better user experience. Maikel van Veen also suggested me being lead frontend, but I argued that I didn't have as much coding experience as everybody else so that we all should watch the frontend. This worked out really well! I also worked in branches for the first time in a group, which I also learned a lot from. Especially to check on which branch you are, before pushing everything 😅.
+I had only once worked with SASS before, but never with BEM. During this project I want to focus on the frontend, because I really feel I have some affinity there and want to focus on creating a better user experience. Maikel van Veen also suggested me being lead frontend, but I argued that I didn't have as much coding experience as everybody else so that we all should watch the frontend. This worked out really well! I also worked in branches for the first time in a group, which I also learned a lot from. Especially to check on which branch you are, before pushing everything 😅. Thankfully Maikel van Veen wrote down a [Version Control](https://github.com/Maikxx/360-wallscope/blob/master/docs/guidelines/VERSION_CONTROL.md) to manage everything. I learned to commit more often, so instead of committing multiple components together to separate those. Though I still need to focus on committing in between instead of just committing when I finished a component. Because you don't want things to get lost when a laptop suddenly crashes.
 
 ## Week 3
 
@@ -81,7 +81,7 @@ On monday I worked on tying all the components together and making sure everythi
 Here I will provide a list of the components I worked on. Of course during the project you always run into components that need to work together, but can't yet. So I also tweaked these a bit, even though this can't be found on the [backlog](https://github.com/Maikxx/360-wallscope/projects/1), but can be found in all my commits in the [repository](https://github.com/Maikxx/360-wallscope/commits?author=chelseadoeleman). And of course the other way around where someone else had to tweak mine.
 
 Components
-* Icon
+* Icons
 * Button
 * MenuBottom
 * Header - adding a dropdown
@@ -101,3 +101,28 @@ Components
 * Navigation
 * NavLink
 * ResultsView
+
+A component I was really proud of is the ```<Button>``` component, because I needed to make this really generic while accepting ```<Icons>``` and text. While also needing a onClick handler handle certain functions. I also learned to work here with the package classnames which looks something like this: 
+
+```js
+private getClassName() {
+    const { className, styleOverride, full, isDisabled } = this.props
+
+    return classnames('Button', {
+        'Button--full': full === true,
+        'Button--disabled': isDisabled === true,
+        'Button--ultraviolet': styleOverride === 'ultraviolet-button',
+        'Button--orange': styleOverride === 'orange-button',
+        'Button--round': styleOverride === 'round-button',
+        'Button--big': styleOverride === 'big-button',
+        'Button--search': styleOverride === 'search-button',
+        'Button--tag-ultraviolet': styleOverride === 'tag-ultraviolet-button',
+        'Button--tag-orange': styleOverride === 'tag-orange-button',
+        'Button--tag-border': styleOverride === 'tag-border-button',
+        'Button--tag-orange-border': this.state.isSelected,
+    }, className)
+}
+```
+
+I also used State to create a prototype that made it feel like certain features work, but do not yet.
+Overall I am quite proud of this one, especially because there are a lot of button that can be found in this project. I also wanted to challenge myself with small animations in the project. I had also never worked with an ```::after``` before, so in the end I killed two birds with one stone in this component.
