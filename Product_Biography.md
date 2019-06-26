@@ -78,7 +78,7 @@ On this day we also had another meeting with Wallscope talking about our design 
 
 On monday I worked on tying all the components together and making sure everything was running smoothly. Change up some classnames to create more clarity within the application and making sure we weren't missing something. The following day we sat down with Joost again were things were really wonky and saw we lost a lot of UX points and the whole application didn't have a nice flow yet. So this day and Wednesday we spent a lot of time perfecting the prototype and writing the documentation. 
 
-Here I will provide a list of the components I worked on. Of course during the project you always run into components that need to work together, but can't yet. So I also tweaked these a bit, even though this can't be found on the [backlog](https://github.com/Maikxx/360-wallscope/projects/1), but can be found in all my commits in the [repository](https://github.com/Maikxx/360-wallscope/commits/). And of course the other way around where someone else had to tweak mine.
+Here I will provide a list of the components I worked on. Of course during the project you always run into components that need to work together, but can't yet. So I also tweaked these a bit, even though this can't be found on the [backlog](https://github.com/Maikxx/360-wallscope/projects/1), but can be found in all my commits in the [repository](https://github.com/Maikxx/360-wallscope/commits?author=chelseadoeleman). And of course the other way around where someone else had to tweak mine.
 
 Components
 * Icon
