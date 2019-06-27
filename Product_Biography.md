@@ -166,7 +166,7 @@ Components
 * Articles
 * Accordion - refactoring so it would work in react.
 * Modal
-* Board - basics
+* BoardView - basics
 * Boards - basics
 * Tags
 * SearchQuery
