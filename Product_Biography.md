@@ -202,4 +202,4 @@ private getClassName() {
 ```
 
 I also used State to create a prototype that made it feel like certain features work, but do not yet.
-Overall I am quite proud of this one, especially because there are a lot of button that can be found in this project. I also wanted to challenge myself with small animations in the project. I had also never worked with an ```::after``` before, so in the end I killed two birds with one stone in this component.
+Overall I am quite proud of this one, especially because there are a lot of button that can be found in this project. I also wanted to challenge myself with small animations in the project. I had also never worked with an ```::after``` before, so in the end I killed two birds with one stone in this component. I also learned how to create a gooey button with svg filters, which was pretty awesome!
