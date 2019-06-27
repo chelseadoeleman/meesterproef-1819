@@ -133,7 +133,27 @@ On this day we also had another meeting with Wallscope talking about our design 
 
 ## Week 5
 
-On monday I worked on tying all the components together and making sure everything was running smoothly. Change up some classnames to create more clarity within the application and making sure we weren't missing something. The following day we sat down with Joost again were things were really wonky and saw we lost a lot of UX points and the whole application didn't have a nice flow yet. So this day and Wednesday we spent a lot of time perfecting the prototype and writing the documentation. 
+On monday I worked on tying all the components together and making sure everything was running smoothly. Change up some classnames to create more clarity within the application and making sure we weren't missing something. The following day we sat down with Joost again were things were really wonky and saw we lost a lot of UX points and the whole application didn't have a nice flow yet. So this day and Wednesday we spent a lot of time perfecting the prototype and writing the documentation and presenting to Wallscope where they came back with following feedback
+
+<details>
+    <summary>Feedback</summary>
+
+Hoi allemaal, hieronder mijn opmerkingen voor de webdev team.
+Overal het idee om interactief links in te bouwen vindt ik erg goed.
+Het aanmaken van je eigen repository kan heel nuttig zijn.
+Als bekend wordt wie de links aanmaken binnen het systeem zou bv onderscheiden tussen een wetenschapper, journalist, enzo om bijbehorend profielen kunnen wij al een nuttig invoer zien voor Machine Learning modellen om een processor te kunnen trainen gericht op persoonlijkheid. Dus jullie heebben ons een beetje inspiratie gegeven.
+We zien echter niet het belang van "no-link" erin zetten. Er zijn links of geen links. Maar voor ML training zou het ook nuttig kunnen zijn. Niet het eind gebruiker.
+Dus het grond idee is erg goed, misschien een beetje haastig samengesteld vanwege de koers wisseling, niet echt een kritiek, we weten hoe het is om te werken onder druk.
+Over het UI.
+Iedereen in het kantoor vindt de letterbox animatie bij de subjecten verschrikkelijk. Het is eigenlijk ouderwets en overbodig. Onnodig animaties irriteren snel.
+Jullie hebben het kritiek van Ken van ISD gisteren gekregen en daar zijn we niet mee eens over achtergrond kleur. Hij werkt voor de overheid dus wit moet als achtergrond of ze het willen of niet, vandaar de kritiek.
+Ingang tot je eigen board kan iets duidelijker zijn. Ik vindt als er iconen gebruikt worden moer er altijd een uitleg bij zitten, lexicon als referentie bij de hulp. Dat komt omdat we werken met overheid instanties en de wet eist dat voor mensen met visuele handicappen, een detail maar altijd goed om er rekening mee te houden.
+Erg goed gedaan overal.
+Git is goed ingevuld en duidelijk, plus punt en ook erg goed gedaan.
+
+Ok dit is mijn feedback. Ik hoop dat het goed gaat morgen met de presentatie!
+
+</details>
 
 Here I will provide a list of the components I worked on. Of course during the project you always run into components that need to work together, but can't yet. So I also tweaked these a bit, even though this can't be found on the [backlog](https://github.com/Maikxx/360-wallscope/projects/1), but can be found in all my commits in the [repository](https://github.com/Maikxx/360-wallscope/commits?author=chelseadoeleman). And of course the other way around where someone else had to tweak mine.
 
