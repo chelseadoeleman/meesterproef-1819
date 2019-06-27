@@ -1,9 +1,28 @@
 # Meesterproef 2019 @cmda-minor-web · 2018-2019
 
+**During the meesterproef we created a prototype for Wallscope. To provide the user with medical linked data from ISD Scotland. Here you are able to find all my documentation during this project.**
+
+![Banner](./assets/banner.png)
+
+The Application can be found [here](https://wallscope.herokuapp.com/) and the repository for this project [here](https://github.com/Maikxx/360-wallscope). This is a collaboration project together with [Maikel van Veen](https://github.com/Maikxx), [Jesper Ingels](https://github.com/jesperingels) & [Maikel Sleebos](https://github.com/Senpaizuri) @minor Web Development at the Amsterdam University of Applied Sciences.
+
 ## Table of Contents
-* [Design rational](./Design_Rational.md)
-* [Product biography](./Product_Biography.md)
+* [Design rational](#Design-rational)
+* [Product biography](#Product-biography)
 * [Reflection](#Reflection)
+
+## Design rational 
+
+_Here all documentation can be found about the application and about all the design choices we made._
+
+[Design rational](./Design_Rational.md)
+
+## Product biography 
+
+_This is where I documented my personal process of what I've been up to these five weeks._
+
+[Product biography](./Product_Biography.md)
+
 
 ## Reflection
 
@@ -23,6 +42,8 @@ _Here I reflect on my learning goals I set up based on the rubrics._
 * 💚 = achieved
 * 🧡 = still in progress
 * ❤️ = did not have enough time to complete this
+
+
 
 At the beginning of this minor I wanted to learn a lot about programming, but I also wanted to dive deeper into creating a better user experience. The meesterproef seemed like a really good opportunity for me to work on these learning goals. 
 
